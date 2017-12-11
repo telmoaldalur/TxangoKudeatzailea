@@ -1,0 +1,1916 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TxangoKudeatzailea
+</name>
+</assembly>
+<members>
+<member name="F:TxangoKudeatzailea.TxangoZerrenda.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoZerrenda.Image2">
+	<summary>
+Control Image2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoZerrenda.TxangoZerr">
+	<summary>
+Control TxangoZerr.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoZerrenda.ButtonBerria">
+	<summary>
+Control ButtonBerria.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoZerrenda.HyperLinkAtzera">
+	<summary>
+Control HyperLinkAtzera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoZerrenda.SaretaTxangoak">
+	<summary>
+Control SaretaTxangoak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoZerrenda.TxangoZer">
+	<summary>
+Control TxangoZer.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.gordetzeko.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.TextBoxEmail">
+	<summary>
+Control TextBoxEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.TextBoxIzena">
+	<summary>
+Control TextBoxIzena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.TextBoxAbizena">
+	<summary>
+Control TextBoxAbizena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.TextBoxPasahitza">
+	<summary>
+Control TextBoxPasahitza.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.TextBoxGalderaEzkutua">
+	<summary>
+Control TextBoxGalderaEzkutua.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.TextBoxGalderarenErantzuna">
+	<summary>
+Control TextBoxGalderarenErantzuna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.TextBoxPasahitzaErrepikatua">
+	<summary>
+Control TextBoxPasahitzaErrepikatua.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.RegularExpressionValidatorEmail">
+	<summary>
+Control RegularExpressionValidatorEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.CompareValidatorPasahitzak">
+	<summary>
+Control CompareValidatorPasahitzak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.LabelPasahitza1">
+	<summary>
+Control LabelPasahitza1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.LabelGaldera">
+	<summary>
+Control LabelGaldera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.LabelErantzuna">
+	<summary>
+Control LabelErantzuna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.LabelPasahitza2">
+	<summary>
+Control LabelPasahitza2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.Herria">
+	<summary>
+Control Herria.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.TextBoxHerria">
+	<summary>
+Control TextBoxHerria.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.TextBoxTelefonoa">
+	<summary>
+Control TextBoxTelefonoa.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.TextBoxDNI">
+	<summary>
+Control TextBoxDNI.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.LabelEmail">
+	<summary>
+Control LabelEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.LabelIzena">
+	<summary>
+Control LabelIzena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.LabelAbizena">
+	<summary>
+Control LabelAbizena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.Image1">
+	<summary>
+Control Image1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.Telefonoa">
+	<summary>
+Control Telefonoa.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.Panel1">
+	<summary>
+Control Panel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.RequiredFieldValidator6">
+	<summary>
+Control RequiredFieldValidator6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.RequiredFieldValidator7">
+	<summary>
+Control RequiredFieldValidator7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.RequiredFieldValidator8">
+	<summary>
+Control RequiredFieldValidator8.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.RequiredFieldValidator9">
+	<summary>
+Control RequiredFieldValidator9.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.ButtonErregistratu">
+	<summary>
+Control ButtonErregistratu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.RequiredFieldValidator1">
+	<summary>
+Control RequiredFieldValidator1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.RequiredFieldValidator2">
+	<summary>
+Control RequiredFieldValidator2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.RequiredFieldValidator3">
+	<summary>
+Control RequiredFieldValidator3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.RequiredFieldValidator4">
+	<summary>
+Control RequiredFieldValidator4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Erregistratzea.RequiredFieldValidator5">
+	<summary>
+Control RequiredFieldValidator5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="P:TxangoKudeatzailea.My.MyWebExtension.Application">
+	<summary>
+ Devuelve información sobre la aplicación actual.
+ </summary>
+</member><member name="P:TxangoKudeatzailea.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:TxangoKudeatzailea.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:TxangoKudeatzailea.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:TxangoKudeatzailea.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:TxangoKudeatzailea.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="P:TxangoKudeatzailea.My.MyWebExtension.WebServices">
+	<summary>
+ Proporciona acceso a los servicios Web agregados a este proyecto.
+ </summary>
+</member><member name="T:TxangoKudeatzailea.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:TxangoKudeatzailea.DaudenArgazkiakIkusi.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.DaudenArgazkiakIkusi.Image1">
+	<summary>
+Control Image1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.DaudenArgazkiakIkusi.HyperLink2">
+	<summary>
+Control HyperLink2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.DaudenArgazkiakIkusi.HyperLink3">
+	<summary>
+Control HyperLink3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.DaudenArgazkiakIkusi.LinkButton1">
+	<summary>
+Control LinkButton1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.DaudenArgazkiakIkusi.HyperLinkHistoriala">
+	<summary>
+Control HyperLinkHistoriala.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.DaudenArgazkiakIkusi.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.DaudenArgazkiakIkusi.AccessDataSource1">
+	<summary>
+Control AccessDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoakEgindakoak.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoakEgindakoak.HyperLinkAtzera">
+	<summary>
+Control HyperLinkAtzera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoakEgindakoak.Image2">
+	<summary>
+Control Image2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoakEgindakoak.EgindakoTxangoak">
+	<summary>
+Control EgindakoTxangoak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoakEgindakoak.LinkButton1">
+	<summary>
+Control LinkButton1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoakEgindakoak.LinkButton2">
+	<summary>
+Control LinkButton2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoakEgindakoak.SaretaEgindakoTxangoak">
+	<summary>
+Control SaretaEgindakoTxangoak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoakEgindakoak.AccessDataSource1">
+	<summary>
+Control AccessDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.Image2">
+	<summary>
+Control Image2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.TxangoaSor">
+	<summary>
+Control TxangoaSor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.HyperLinkAtzera">
+	<summary>
+Control HyperLinkAtzera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.Panel2">
+	<summary>
+Control Panel2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.TextBoxDeskribapena">
+	<summary>
+Control TextBoxDeskribapena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.Deskribapena">
+	<summary>
+Control Deskribapena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.LekuaHasiera">
+	<summary>
+Control LekuaHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.LekuaBukaera">
+	<summary>
+Control LekuaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.OrduaHasiera">
+	<summary>
+Control OrduaHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.Distantzia">
+	<summary>
+Control Distantzia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.Zailtasuna">
+	<summary>
+Control Zailtasuna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.OrduaBukaera">
+	<summary>
+Control OrduaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.Partaide_Kop">
+	<summary>
+Control Partaide_Kop.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.Eguna">
+	<summary>
+Control Eguna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.Calendar1">
+	<summary>
+Control Calendar1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.RequiredFieldLekuBukaera">
+	<summary>
+Control RequiredFieldLekuBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.RequiredFieldOrduHasiera">
+	<summary>
+Control RequiredFieldOrduHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.RequiredFieldOrduBukaera">
+	<summary>
+Control RequiredFieldOrduBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.RequiredFieldPartaideKopurua0">
+	<summary>
+Control RequiredFieldPartaideKopurua0.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.RequiredFieldLekuDeskribapena">
+	<summary>
+Control RequiredFieldLekuDeskribapena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.RequiredFieldDistantzia">
+	<summary>
+Control RequiredFieldDistantzia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.RequiredFieldLekuHasiera0">
+	<summary>
+Control RequiredFieldLekuHasiera0.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.TextBoxOrduHasiera">
+	<summary>
+Control TextBoxOrduHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.TextBoxLekuaHasiera">
+	<summary>
+Control TextBoxLekuaHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.TextBoxLekuaBukaera">
+	<summary>
+Control TextBoxLekuaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.TextBoxDistantzia">
+	<summary>
+Control TextBoxDistantzia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.DropDownListZailtasuna">
+	<summary>
+Control DropDownListZailtasuna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.TextBoxOrduaBukaera">
+	<summary>
+Control TextBoxOrduaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.TextBoxPartaideKop">
+	<summary>
+Control TextBoxPartaideKop.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.ButtonAldatu">
+	<summary>
+Control ButtonAldatu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.Partaideak">
+	<summary>
+Control Partaideak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.GridView1">
+	<summary>
+Control GridView1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.TxangoraApuntatuak">
+	<summary>
+Control TxangoraApuntatuak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoBatKudeatu.ButtonEzabatu">
+	<summary>
+Control ButtonEzabatu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.Perfila">
+	<summary>
+Control Perfila.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.Image1">
+	<summary>
+Control Image1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.Panel1">
+	<summary>
+Control Panel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.TextBoxEmail">
+	<summary>
+Control TextBoxEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.TextBoxIzena">
+	<summary>
+Control TextBoxIzena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.TextBoxAbizena">
+	<summary>
+Control TextBoxAbizena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.TextBoxPasahitza">
+	<summary>
+Control TextBoxPasahitza.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.TextBoxGalderaEzkutua">
+	<summary>
+Control TextBoxGalderaEzkutua.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.TextBoxGalderarenErantzuna">
+	<summary>
+Control TextBoxGalderarenErantzuna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.TextBoxPasahitzaErrepikatua">
+	<summary>
+Control TextBoxPasahitzaErrepikatua.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.LabelPasahitza1">
+	<summary>
+Control LabelPasahitza1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.LabelGaldera">
+	<summary>
+Control LabelGaldera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.LabelErantzuna">
+	<summary>
+Control LabelErantzuna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.LabelPasahitza2">
+	<summary>
+Control LabelPasahitza2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.Herria">
+	<summary>
+Control Herria.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.TextBoxHerria">
+	<summary>
+Control TextBoxHerria.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.TextBoxTelefonoa">
+	<summary>
+Control TextBoxTelefonoa.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.TextBoxDNI">
+	<summary>
+Control TextBoxDNI.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.LabelEmail">
+	<summary>
+Control LabelEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.LabelIzena">
+	<summary>
+Control LabelIzena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.LabelAbizena">
+	<summary>
+Control LabelAbizena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.Telefonoa">
+	<summary>
+Control Telefonoa.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.ButtonAldatu">
+	<summary>
+Control ButtonAldatu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.ButtonEzabatu">
+	<summary>
+Control ButtonEzabatu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.RequiredFieldValidator1">
+	<summary>
+Control RequiredFieldValidator1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.RequiredFieldValidator2">
+	<summary>
+Control RequiredFieldValidator2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.RequiredFieldValidator3">
+	<summary>
+Control RequiredFieldValidator3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.RequiredFieldValidator4">
+	<summary>
+Control RequiredFieldValidator4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.RequiredFieldValidator5">
+	<summary>
+Control RequiredFieldValidator5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.RequiredFieldValidator6">
+	<summary>
+Control RequiredFieldValidator6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.RequiredFieldValidator7">
+	<summary>
+Control RequiredFieldValidator7.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.RequiredFieldValidator8">
+	<summary>
+Control RequiredFieldValidator8.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.RequiredFieldValidator9">
+	<summary>
+Control RequiredFieldValidator9.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.HyperLinkAtzera">
+	<summary>
+Control HyperLinkAtzera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.RegularExpressionValidatorEmail">
+	<summary>
+Control RegularExpressionValidatorEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Perfila.CompareValidatorPasahitzak">
+	<summary>
+Control CompareValidatorPasahitzak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.Label2">
+	<summary>
+Control Label2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.Label3">
+	<summary>
+Control Label3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.Panel1">
+	<summary>
+Control Panel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.Image1">
+	<summary>
+Control Image1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.Image5">
+	<summary>
+Control Image5.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.LabelEmail">
+	<summary>
+Control LabelEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.LabelPasahitza">
+	<summary>
+Control LabelPasahitza.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.TextBoxEmail">
+	<summary>
+Control TextBoxEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.TextBoxPasahitza">
+	<summary>
+Control TextBoxPasahitza.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.ButtonSartu">
+	<summary>
+Control ButtonSartu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.LinkButtonBerreskuratu">
+	<summary>
+Control LinkButtonBerreskuratu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.RequiredFieldValidator4">
+	<summary>
+Control RequiredFieldValidator4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.RegularExpressionValidatorEmail">
+	<summary>
+Control RegularExpressionValidatorEmail.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.HyperLinkBerria">
+	<summary>
+Control HyperLinkBerria.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.Image6">
+	<summary>
+Control Image6.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.Image2">
+	<summary>
+Control Image2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.Image4">
+	<summary>
+Control Image4.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Hasiera.Image3">
+	<summary>
+Control Image3.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.Deskribapena">
+	<summary>
+Control Deskribapena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.RequiredFieldDistantzia">
+	<summary>
+Control RequiredFieldDistantzia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.RequiredFieldLekuBukaera1">
+	<summary>
+Control RequiredFieldLekuBukaera1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.RequiredFieldLekuDeskribapena">
+	<summary>
+Control RequiredFieldLekuDeskribapena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.Panel2">
+	<summary>
+Control Panel2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.Calendar1">
+	<summary>
+Control Calendar1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.TextBoxDeskribap">
+	<summary>
+Control TextBoxDeskribap.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.ButtonSortu">
+	<summary>
+Control ButtonSortu.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.LekuaHasiera">
+	<summary>
+Control LekuaHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.RequiredFieldLekuHasiera">
+	<summary>
+Control RequiredFieldLekuHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.Image2">
+	<summary>
+Control Image2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.TxangoaSor">
+	<summary>
+Control TxangoaSor.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.RequiredFieldPartaideKopurua0">
+	<summary>
+Control RequiredFieldPartaideKopurua0.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.LekuaBukaera">
+	<summary>
+Control LekuaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.TextBoxOrduHasiera">
+	<summary>
+Control TextBoxOrduHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.TextBoxLekuaHasiera">
+	<summary>
+Control TextBoxLekuaHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.OrduaHasiera">
+	<summary>
+Control OrduaHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.TextBoxLekuaBukaera">
+	<summary>
+Control TextBoxLekuaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.Distantzia">
+	<summary>
+Control Distantzia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.TextBoxDistantzia">
+	<summary>
+Control TextBoxDistantzia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.Zailtasuna">
+	<summary>
+Control Zailtasuna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.DropDownListZailtasuna">
+	<summary>
+Control DropDownListZailtasuna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.HyperLink1">
+	<summary>
+Control HyperLink1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.OrduaBukaera">
+	<summary>
+Control OrduaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.TextBoxOrduaBukaera">
+	<summary>
+Control TextBoxOrduaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.Partaide_Kop">
+	<summary>
+Control Partaide_Kop.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.TextBoxPartaideKop">
+	<summary>
+Control TextBoxPartaideKop.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.Eguna">
+	<summary>
+Control Eguna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.RequiredFieldOrduHasiera0">
+	<summary>
+Control RequiredFieldOrduHasiera0.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoaSortu.RequiredFieldOrduHasiera1">
+	<summary>
+Control RequiredFieldOrduHasiera1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoGuztiak.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoGuztiak.LinkButton1">
+	<summary>
+Control LinkButton1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoGuztiak.SaretaTxangoak">
+	<summary>
+Control SaretaTxangoak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoGuztiak.Image2">
+	<summary>
+Control Image2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoGuztiak.TxangoZerrenda">
+	<summary>
+Control TxangoZerrenda.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoGuztiak.AccessDataSource1">
+	<summary>
+Control AccessDataSource1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.TxangoGuztiak.HyperLinkAtzera">
+	<summary>
+Control HyperLinkAtzera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.Image2">
+	<summary>
+Control Image2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.ArgazkiaIgo">
+	<summary>
+Control ArgazkiaIgo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.TextBoxOrduHasiera">
+	<summary>
+Control TextBoxOrduHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.TextBoxLekuaHasiera">
+	<summary>
+Control TextBoxLekuaHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.TextBoxLekuaBukaera">
+	<summary>
+Control TextBoxLekuaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.TextBoxOrduaBukaera">
+	<summary>
+Control TextBoxOrduaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.TextBoxDeskribap">
+	<summary>
+Control TextBoxDeskribap.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.TextBoxDistantzia">
+	<summary>
+Control TextBoxDistantzia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.Distantzia">
+	<summary>
+Control Distantzia.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.Deskribapena">
+	<summary>
+Control Deskribapena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.LekuaHasiera">
+	<summary>
+Control LekuaHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.LekuaBukaera">
+	<summary>
+Control LekuaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.OrduaHasiera">
+	<summary>
+Control OrduaHasiera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.OrduaBukaera">
+	<summary>
+Control OrduaBukaera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.TextBoxLekuaBukaera0">
+	<summary>
+Control TextBoxLekuaBukaera0.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.ArgDeskribapena">
+	<summary>
+Control ArgDeskribapena.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.TextBoxAteratEguna">
+	<summary>
+Control TextBoxAteratEguna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.AteratakoEguna">
+	<summary>
+Control AteratakoEguna.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.AteratakOrdua">
+	<summary>
+Control AteratakOrdua.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.TextBoxArgazkiLekua">
+	<summary>
+Control TextBoxArgazkiLekua.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.TextBoxArgDeskrib">
+	<summary>
+Control TextBoxArgDeskrib.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.ArgazkiIgoera">
+	<summary>
+Control ArgazkiIgoera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.ButtonIgo">
+	<summary>
+Control ButtonIgo.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.AteratakLekua">
+	<summary>
+Control AteratakLekua.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.ArgazkiakIgo.TextBoxAteratakoOrdua">
+	<summary>
+Control TextBoxAteratakoOrdua.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Bezeroa.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Bezeroa.Image2">
+	<summary>
+Control Image2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Bezeroa.Panel1">
+	<summary>
+Control Panel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Bezeroa.HyperLinkPerfila">
+	<summary>
+Control HyperLinkPerfila.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Bezeroa.HyperLinkTxangoGuztiak">
+	<summary>
+Control HyperLinkTxangoGuztiak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Bezeroa.HyperLinkNireTxangoak">
+	<summary>
+Control HyperLinkNireTxangoak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Bezeroa.Bezero">
+	<summary>
+Control Bezero.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Bezeroa.Mezua">
+	<summary>
+Control Mezua.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoak.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoak.Image2">
+	<summary>
+Control Image2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoak.NireTxangoa">
+	<summary>
+Control NireTxangoa.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoak.LinkButton1">
+	<summary>
+Control LinkButton1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoak.AccessDataNireTxangoak">
+	<summary>
+Control AccessDataNireTxangoak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoak.SaretaNireTxangoak">
+	<summary>
+Control SaretaNireTxangoak.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.NireTxangoak.HyperLinkAtzera">
+	<summary>
+Control HyperLinkAtzera.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Administratzailea.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Administratzailea.Image2">
+	<summary>
+Control Image2.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:TxangoKudeatzailea.Administratzailea.Label1">
+	<summary>
+Control Label1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,122 @@
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.pdb
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.xml
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.Resources.resources
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.dll
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.xml
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.pdb
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\bin\Debug\App Data\Ikasleak.accdb
+C:\Documents and Settings\laborategiak\Mis documentos\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll.config
+C:\Users\TELMO\Desktop\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\bin\Debug\App Data\Ikasleak.accdb
+C:\Users\TELMO\Desktop\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll.config
+C:\Users\TELMO\Desktop\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll
+C:\Users\TELMO\Desktop\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.pdb
+C:\Users\TELMO\Desktop\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.xml
+C:\Users\TELMO\Desktop\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.Resources.resources
+C:\Users\TELMO\Desktop\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.vbproj.GenerateResource.Cache
+C:\Users\TELMO\Desktop\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.dll
+C:\Users\TELMO\Desktop\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.xml
+C:\Users\TELMO\Desktop\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.pdb
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\bin\Debug\App Data\Ikasleak.accdb
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll.config
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.pdb
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.xml
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.Resources.resources
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.dll
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.xml
+C:\Users\Carolo\Desktop\Lab04_Erregistratzea_Eginda\Lab04\ariketa3\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.pdb
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\bin\Debug\App Data\Ikasleak.accdb
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll.config
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.pdb
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.xml
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.Resources.resources
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.dll
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.xml
+C:\Users\Carolo\Desktop\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.pdb
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Laborategiak\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\bin\Debug\App Data\Ikasleak.accdb
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Laborategiak\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll.config
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Laborategiak\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Laborategiak\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.pdb
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Laborategiak\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.xml
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Laborategiak\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.Resources.resources
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Laborategiak\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.vbproj.GenerateResource.Cache
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Laborategiak\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.dll
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Laborategiak\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.xml
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Laborategiak\05 .- Lab5 - ASP.NET+ADO.NET\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.pdb
+C:\sgta\DBKudeatzailea\DBKudeatzailea\bin\Debug\App Data\Ikasleak.accdb
+C:\sgta\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll.config
+C:\sgta\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll
+C:\sgta\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.pdb
+C:\sgta\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.xml
+C:\sgta\DBKudeatzailea\DBKudeatzailea\obj\Debug\ResolveAssemblyReference.cache
+C:\sgta\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.Resources.resources
+C:\sgta\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.read.1.tlog
+C:\sgta\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.write.1.tlog
+C:\sgta\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.dll
+C:\sgta\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.xml
+C:\sgta\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.pdb
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.Resources.resources
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.xml
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.pdb
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\bin\Debug\App Data\Ikasleak.accdb
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll.config
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.pdb
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.xml
+C:\Users\Carolo\Dropbox\SGTA\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.dll
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\bin\Debug\App Data\Ikasleak.accdb
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll.config
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.pdb
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.xml
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.Resources.resources
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.dll
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.xml
+C:\Users\Carolo\Desktop\sgta gaur\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.pdb
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\bin\Debug\App Data\Ikasleak.accdb
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll.config
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.pdb
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.xml
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.Resources.resources
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.vbproj.GenerateResource.Cache
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.dll
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.xml
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.pdb
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll.config
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.pdb
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.xml
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.Resources.resources
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.dll
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.xml
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.pdb
+C:\Users\TELMO\Desktop\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll.config
+C:\Users\TELMO\Desktop\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.dll
+C:\Users\TELMO\Desktop\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.pdb
+C:\Users\TELMO\Desktop\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\bin\Debug\DBKudeatzailea.xml
+C:\Users\TELMO\Desktop\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.Resources.resources
+C:\Users\TELMO\Desktop\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.vbproj.GenerateResource.Cache
+C:\Users\TELMO\Desktop\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.dll
+C:\Users\TELMO\Desktop\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.xml
+C:\Users\TELMO\Desktop\APLIKAZIOA\DBKudeatzailea\DBKudeatzailea\obj\Debug\DBKudeatzailea.pdb

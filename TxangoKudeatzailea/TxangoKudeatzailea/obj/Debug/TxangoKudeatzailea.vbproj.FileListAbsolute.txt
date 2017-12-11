@@ -1,0 +1,61 @@
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.Resources.resources
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.vbproj.GenerateResource.Cache
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.dll
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.pdb
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.xml
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.pdb
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.xml
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.vbprojResolveAssemblyReference.cache
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.dll
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.xml
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.pdb
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.dll
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.dll
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.pdb
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.xml
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.dll
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.pdb
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.xml
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.vbprojResolveAssemblyReference.cache
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.Resources.resources
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.vbproj.GenerateResource.Cache
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.dll
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.xml
+C:\Users\TELMO\Documents\Visual Studio 2010\Projects\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.pdb
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.dll
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.pdb
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.xml
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.dll
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.pdb
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.xml
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.Resources.resources
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.dll
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.xml
+C:\Users\Carolo\Dropbox\SGTA\PRAKTIKA\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.pdb
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.dll
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.pdb
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.xml
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.dll
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.pdb
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.xml
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.vbprojResolveAssemblyReference.cache
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.Resources.resources
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.vbproj.GenerateResource.Cache
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.dll
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.xml
+C:\Users\TELMO\Desktop\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.pdb
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.dll
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.pdb
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\TxangoKudeatzailea.xml
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.dll
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.pdb
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\bin\DBKudeatzailea.xml
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.vbprojResolveAssemblyReference.cache
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.Resources.resources
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.vbproj.GenerateResource.Cache
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.dll
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.xml
+C:\Users\TELMO\Documents\Apunteak\2012-2013\2.kuatrimestrea\SGTA\Proiektua\APLIKAZIOA\TxangoKudeatzailea\TxangoKudeatzailea\obj\Debug\TxangoKudeatzailea.pdb
